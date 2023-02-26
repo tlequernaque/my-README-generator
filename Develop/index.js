@@ -29,7 +29,13 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'What kind of license should your project have?',
-        choices: [ 'MIT', new inquirer.Separator(), 'AGPLv3', new inquirer.Separator(), 'GPLv3', new inquirer.Separator()],
+        choices: [ 
+            'MIT',
+            new inquirer.Separator(), 
+            'AGPLv3', 
+            new inquirer.Separator(), 
+            'GPLv3', 
+            new inquirer.Separator()],
       },
       {
         type: 'input',
@@ -57,7 +63,7 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init = () => {}
 
 // Function call to initialize app
 init();
