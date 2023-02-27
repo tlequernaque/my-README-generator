@@ -45,8 +45,6 @@ function generateMarkdown(data) {
   ## Questions
   If you liked this project feel free to check out my other projects at ${Github}
   If you have any questions feel free to email me at  ${email}
-
-
 `;
 }
 

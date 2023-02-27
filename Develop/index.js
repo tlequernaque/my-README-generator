@@ -63,7 +63,9 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init = () => {}
+function init = (questions, response) => {
+    inquirer(questions) .then(response)
+}
 
 // Function call to initialize app
 init();
