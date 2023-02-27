@@ -1,4 +1,4 @@
-# nsnnsns
+# nsnns
   # ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## Table of Contents
@@ -11,26 +11,26 @@
   - [Questions](#questions)
 
   ## Description
-  nsnnsns
+  nsnnsn
 
   ## Installation
-  snsns
+  nsnsnn
 
   ## Usage
-  anna
+  nsnsn
 
   ## License
   MIT
 
   ## Contribute
   
-  bbsb
+  nsnns
 
   ## Tests
   
-  nsnns
+  nsnsn
 
   ## Questions
   
   If you liked this project feel free to check out my other projects at undefined
-  If you have any questions feel free to email me at  nsnsnns
+  If you have any questions feel free to email me at  nsnns
