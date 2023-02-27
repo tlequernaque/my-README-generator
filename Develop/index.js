@@ -26,16 +26,14 @@ const questions = [
         message: 'Please write a short description of your project?',
       },
       {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',
         choices: [ 
             'MIT',
-            new inquirer.Separator(), 
             'AGPLv3', 
-            new inquirer.Separator(), 
             'GPLv3', 
-            new inquirer.Separator()],
+        ]
       },
       {
         type: 'input',
@@ -70,7 +68,7 @@ const init = (questions) => {
         console.log(response);
         const mdPageContent = generateMarkdown(response);
         console.log(mdPageContent);
-        writeToFile ('myREADME1.md', mdPageContent)
+        writeToFile ('myREADME.md', mdPageContent)
     })
 };
 
