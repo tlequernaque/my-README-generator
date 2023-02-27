@@ -63,12 +63,16 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init = (questions, response) => {
-    inquirer(questions) .then(response)
-}
+const init = (questions) => {
+    inquirer.prompt(questions) .then((response) => {
+        console.log(response);
+        const mdPageContent = generateMarkdown(response);
+        console.log(mdPageContent);
+    })
+};
 
 // Function call to initialize app
-init();
+init(questions);
 
 
 
