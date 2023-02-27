@@ -60,7 +60,9 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    return fs.writeFileSync(fileName, data);
+}
 
 // TODO: Create a function to initialize app
 const init = (questions) => {
@@ -68,6 +70,7 @@ const init = (questions) => {
         console.log(response);
         const mdPageContent = generateMarkdown(response);
         console.log(mdPageContent);
+        writeToFile ('myREADME.md', mdPageContent)
     })
 };
 
