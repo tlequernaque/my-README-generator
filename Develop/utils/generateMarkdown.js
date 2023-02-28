@@ -43,17 +43,14 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contribute
-  
   ${data.contributing}
 
   ## Tests
-  
   ${data.tests}
 
   ## Questions
-  
-  If you liked this project feel free to check out my other projects at ${data.Github}
-  If you have any questions feel free to email me at  ${data.email}
+  If you liked this project feel free to check out my other projects at GitHub,  GitHub username: ${data.GitHub}.
+  If you have any questions feel free to email me at  ${data.email}.
 `;
 }
 
