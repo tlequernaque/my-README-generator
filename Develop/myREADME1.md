@@ -1,5 +1,5 @@
-# readme maker 
-  # ![License](https://img.shields.io/badge/license-MIT-green.svg)
+# my-README-generator
+  # ![License](https://img.shields.io/badge/license-AGPLv3-green.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -14,20 +14,20 @@
   unknown
 
   ## Installation
-  n/a
+  none
 
   ## Usage
-  n/a
+  none
 
   ## License
-  MIT
+  AGPLv3
 
   ## Contribute
-  n/a
+  none
 
   ## Tests
-  n/a
+  none
 
   ## Questions
-  If you liked this project feel free to check out my other projects at tlequernaque
-  If you have any questions feel free to email me at  t.lequernaque@yahoo.com
+  If you liked this project feel free to check out my other projects at GitHub,  GitHub username: tlequernaque.
+  If you have any questions feel free to email me at  t.lequernaque@yahoo.com.
