@@ -1,5 +1,5 @@
-# my-README-generator
-  # ![License](https://img.shields.io/badge/license-AGPLv3-green.svg)
+# My-READme-Generator
+  # ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,7 +11,7 @@
   - [Questions](#questions)
 
   ## Description
-  unknown
+  none
 
   ## Installation
   none
@@ -20,13 +20,13 @@
   none
 
   ## License
-  AGPLv3
+  This project is licensed under the MIT license.
 
   ## Contribute
   none
 
   ## Tests
-  none
+  noen
 
   ## Questions
   If you liked this project feel free to check out my other projects at GitHub,  GitHub username: tlequernaque.

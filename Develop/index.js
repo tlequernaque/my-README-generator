@@ -33,6 +33,7 @@ const questions = [
             'MIT',
             'AGPLv3', 
             'GPLv3', 
+            'None'
         ]
       },
       {
