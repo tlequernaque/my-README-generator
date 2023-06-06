@@ -14,10 +14,12 @@
    This code was developed to generate a READme.md file. When you type node index.js on the terminal a series of questions will be asked. The program will ask questions regarding your GitHub username, email address, a project name, a description of the project, a type of license, any dependencies to install, command to run tests, any info about the repo, and any contributions. After all the questions are answered a new READme file will be created to include all answers along with a table of content.
 
   ## Installation
-  N/A
+  1. Clone the repo
+  2. Open the repo and go to the repo directory in your terminal
+  3. Run: node index.js (or: node index) Your README file should generate and be given the title: "myREADME.md"
 
   ## Usage
-  N/A
+  This application will utilize node.js to generate a personalized README for your application, based off of your input. Users are to run node index from their terminal within the repo root folder. Once the command is ran and the input is selected, then the user must answer the proceeding questions. If all is well, the application will generated your very own README for specific repos.
 
   ## License
   This project is licensed under the MIT license.
